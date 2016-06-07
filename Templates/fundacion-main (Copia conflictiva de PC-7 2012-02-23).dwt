@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<script type="text/javascript" src="../js/jquery.js"  ></script>
+    <script type="text/javascript" src="../js/jquery.lightbox-0.5.js"></script>
+    <script type="text/javascript" src="../js/jquery.lightbox-0.5.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/jquery.lightbox-0.5.css" media="screen" />
+    <script type="text/javascript" src="../js/jquery.lightbox-0.5.pack.js"></script>
+    <script type="text/javascript" src=""></script>
+    <link href="" rel="stylesheet" type="text/css" media="screen" />
+   
+    <script type="text/javascript">
+    $(function() {
+        $('#gallery a').lightBox();
+    });
+    </script>
+   	<style type="text/css">
+	/* jQuery lightBox plugin - Gallery style */
+	#gallery {
+		background-color: #444;
+		padding: 10px;
+		width: 520px;
+	}
+	#gallery ul { list-style: none; }
+	#gallery ul li { display: inline; }
+	#gallery ul img {
+		border: 5px solid #3e3e3e;
+		border-width: 5px 5px 20px;
+	}
+	#gallery ul a:hover img {
+		border: 5px solid #fff;
+		border-width: 5px 5px 20px;
+		color: #fff;
+	}
+	#gallery ul a:hover { color: #fff; }
+	</style>
+    
+	
+    <link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="../css/print.css" rel="stylesheet" type="text/css" media="screen">
+    
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+    <meta http-equiv="Content-Type" content="cache" />
+    <meta name="robots" content="INDEX, FOLLOW" />
+    <meta name="keywords" content="Enter Keywords" />
+    <meta name="description" content="Description Here" />
+<!-- TemplateBeginEditable name="doctitle" -->
+    <title>Fundación Este Niño Lindo</title>
+    <!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+    
+    
+    <style type="text/css">
+	span	{font-family:"Times New Roman", Times, serif; font-size:18px;}
+	</style>>
+    
+</head>
+
+<body>
+
+<div id="outer">
+<div id="wrapper">
+  <div id="logo">
+        <img src="../imagenes/logo.jpg" width="260" height="140" /></div>
+  <div id="social-media-icons">
+    <p><span>Link a facebook</span> <a href="https://www.facebook.com/pages/Este-Ni%C3%B1o-Lindo-Fundaci%C3%B3n-Jorge-Emilio-Garc%C3%ADa-Rodr%C3%ADguez/204187269660519?sk=wall" target="_blank"><img src="../imagenes/iconos/facebook.png" width="35" height="32" /></a>    </p>
+    <ul>
+      <ul>
+   	    <p><img  style="padding:10px"src="../imagenes/banner2.jpg" width="262" height="130" /></p>
+        </ul>
+      </ul>
+</div>
+        
+        <div id="topnav">
+<ul>
+        	  <!-- TemplateBeginEditable name="menu" -->
+        	    <li><a href="../index.html">INICIO</a></li>
+        	    <li><a href="../sintomas.html"> SINTOMAS </a></li>
+        	    <li><a href="../atenderencasa.html">COMO ANTENDER EN CASA</a>									</li>
+                <li><a href="../historia.html">HISTORIA</li>
+        	    <li><a href="../contacto.html">CONTACTANOS</a></li>
+       	      <!-- TemplateEndEditable -->
+      	  </ul>
+</div>
+        
+        <div id="banner"><!-- TemplateBeginEditable name="banner" --><!-- TemplateEndEditable --></div>
+                
+        <div id="content"><!-- TemplateBeginEditable name="contenido" -->
+          <h1 style="font-size:24px; color:#3CF; padding-bottom: 15px; border-bottom:1px #ccc solid; margin-bottom:15px;">Galería</h1>
+          
+          <div id="gallery">
+          
+<a href="../fotos-fb/Descoración_files/374317_207791855966727_204187269660519_461658_1365049270_n.jpg" title="This is the caption text">
+	<img src="../fotos-fb/Descoración_files/374317_207791855966727_204187269660519_461658_1365049270_n.jpg" width="120" height="80"/></a>
+    
+    <a href="../fotos-fb/Descoración_files/388521_207791412633438_204187269660519_461654_1204397755_n.jpg" title="This is the caption text">
+	<img src="../fotos-fb/Descoración_files/388521_207791412633438_204187269660519_461654_1204397755_n.jpg" width="120" height="80"/></a>
+    
+    
+              <p>&nbsp;</p>
+    </div>
+  <!-- TemplateEndEditable -->
+        </div>
+        <div id="banner2">
+          </dvi>
+      		
+      <div id="rightside"><!-- TemplateBeginEditable name="infoderecha" -->
+        <h2>UltiwNoticias
+      ddddddddddddddddddd</h2>
+      <!-- TemplateEndEditable --></div>
+        <div id="footer">
+        <hr/ >
+        <p class="footer-text">Copyright 2012, Este Niño Lindo: Fundación Jorge Emilio García Rodríguez<p>
+        </div>
+       </div>
+</div>
+     
+</body>
+</html>     
+     
+     

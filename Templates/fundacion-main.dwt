@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/timothy.js"></script>
+    
+	<link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="../css/print.css" rel="stylesheet" type="text/css" media="screen">
+    
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+    <meta http-equiv="Content-Type" content="cache" />
+    <meta name="robots" content="INDEX, FOLLOW" />
+    <meta name="keywords" content="Enter Keywords" />
+    <meta name="description" content="Description Here" />
+<!-- TemplateBeginEditable name="doctitle" -->
+    <title>Fundación Este Niño Lindo</title>
+    <!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+    
+    <style type="text/css">
+	span	{font-family:"Arial"; font-size:15px;}
+	</style>
+    
+</head>
+
+<body>
+
+<div id="outer">
+<div id="wrapper">
+
+		<div id="logo">
+        <img src="../imagenes/logo.jpg" width="260" height="140" /></div>
+        
+        <div id="social-media-icons">
+        	<ul>
+            	<li><a href="https://www.facebook.com/pages/Este-Niño-Lindo-Fundación-Jorge-Emilio-García-Rodríguez/204187269660519" target="_blank"><img src="../imagenes/iconos/facebook.png" width="32" height="32" /></a> </li>
+          <span>Link para Facebook</span>
+        	</ul>
+          <center><img style="margin-bottom: 10px" src="../imagenes/banner2" align="middle" width="263" height="149"/></center>
+    </div>
+        
+        <div id="topnav">
+        	<ul>
+        	  <!-- TemplateBeginEditable name="menu" -->
+        	    <li><a href="../index.html">INICIO</a></li>
+        	    <li><a href="../historia.html">HISTORIA</a></li>
+        	    <li><a href="../sintomas.html">ACCIONES</a>									</li>
+                <li><a href="../historia.html"><a href="../atenderencasa.html">GALERIA</a></li>
+        	    <li><a href="../contacto.html">CONTACTO</a></li>
+       	      <!-- TemplateEndEditable -->
+      	  </ul>
+</div>
+        
+
+                
+        <div id="content"><!-- TemplateBeginEditable name="contenido" -->
+          <h1>Bienvenido a Este Niño Lindo: Fundación Jorge Emilio García Rodrígue</h1>
+        <p>Una celebración de la hermosa vida Jorge Emilio
+            Descripción	
+            Jorgemilio García, de seis años, fue diagnosticado con Leucemia Linfoblástica Aguda el 22 de julio de 2011. Desde el inicio de su tratamiento Jorgemilio respondió muy bien al tratamiento, con muchos ánimos y la mejor de las actitudes. 
+            
+            Jorgito era tierno, amable, divertido y muy creativo. Siempre con buena actitud trataba de pasar el tiempo en el hospital y en casa, ya fuera leyendo, jugando y creando. Le gustaba hacer manualidades, pintar y decorar su cuarto. </p>
+          <img class="image-frame" src="../imagenes/img.jpg" width="280" height="180"  /><img class="image-frame" src="../imagenes/img2.jpg" width="280" height="180" />
+          <p>A pesar de que estaba en remisión y que su pronóstico de vencer la enfermedad era excelente, Diosito decidió que Jorgito regresara a casa. Sus hermanos y padres decidimos ayudar a familias que enfrentan situaciones similares a la nuestra, a través de ta fundación. De esta manera honraremos la memoria de Este Niño Lindo que tanto amor nos dio.
+            Misión	
+            .</p>
+        <!-- TemplateEndEditable --></div>
+      		
+        
+          <h2>&nbsp;</h2>
+        </div>
+        <div id="footer">
+        <hr/ >
+        <p class="footer-text">Copyright 2012, Este Niño Lindo: Fundación Jorge Emilio García Rodríguez<p>
+        </div>
+       </div>
+</div>
+     
+</body>
+</html>     
+     
+     
